@@ -6,3 +6,22 @@
 img {
     border-radius: 15px;
 }
+
+.recipe-links {
+    display: flex;
+}
+
+.burger {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.kebab {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.lasagna {
+    margin-left: 10px;
+    margin-right: 10px;
+}
