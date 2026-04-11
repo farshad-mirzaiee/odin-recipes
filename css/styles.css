@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 html {
-    background-color: #c0bfbf;
+    background-color: #ddd8d8;
     font-family: "Lato", sans-serif;
 }
 
@@ -16,7 +16,7 @@ h1 {
     font-size: 25px;
     font-weight: 700;
 }
-
+/*
 .content {
     display: flex;
     flex-direction: row;
@@ -24,7 +24,7 @@ h1 {
     gap: 50px;
 
 }
-
+*/
 div img {
     width: 380px;
     height: 350px;
