@@ -16,7 +16,7 @@ h1 {
     font-size: 25px;
     font-weight: 700;
 }
-/*
+
 .content {
     display: flex;
     flex-direction: row;
@@ -24,7 +24,7 @@ h1 {
     gap: 50px;
 
 }
-*/
+
 div img {
     width: 380px;
     height: 350px;
@@ -54,3 +54,4 @@ div img {
     border-radius: 15px;
     box-shadow: 0 0 5px rgb(92, 148, 232);
 }
+
