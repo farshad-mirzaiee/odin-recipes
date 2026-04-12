@@ -59,7 +59,15 @@ div img {
     display: flex;
     flex-direction: column;
     gap: 20px;
-    align-items: center;
-    text-align: center;
-    width: 400px;
+    padding-left: 30px;
+    width: 420px;
+}
+
+.right-top {
+    border: 1px solid #292929;
+    border-radius: 10px;
+    height: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+
 }
