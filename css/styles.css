@@ -22,7 +22,6 @@ h1 {
     flex-direction: row;
     justify-content: center;
     gap: 50px;
-
 }
 
 div img {
@@ -66,8 +65,22 @@ div img {
 .right-top {
     border: 1px solid #292929;
     border-radius: 10px;
-    height: 200px;
-    padding-left: 10px;
-    padding-right: 10px;
+    height: 250px;
+    padding-left: 15px;
+    padding-right: 15px;
 
+}
+
+.steps-container {
+    margin-top: 30px;
+    border: solid 1px #474747;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: auto;
+    
+}
+
+ul {
+    list-style-type: none;
 }
