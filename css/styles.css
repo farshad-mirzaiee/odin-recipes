@@ -65,7 +65,7 @@ div img {
 .right-top {
     border: 1px solid #292929;
     border-radius: 10px;
-    height: 250px;
+    height: 350px;
     padding-left: 15px;
     padding-right: 15px;
 
@@ -77,10 +77,28 @@ div img {
     border-radius: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    height: auto;
+    margin-top: 20px;
+    width: auto;
+    height: 390px;
     
 }
 
 ul {
     list-style-type: none;
+}
+
+.ingredients-container{
+    border-radius: 10px;
+    background-color: #d99986;
+    padding:20px;
+    flex-grow: 3;
+    height: 350px;
+}
+
+#ingredient {
+    height: 440px;
+}
+
+#steps {
+    height: 480px;
 }
