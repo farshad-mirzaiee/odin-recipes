@@ -115,7 +115,7 @@ ul {
 
 nav a {
     font-family: "Amatic SC", sans-serif;
-    font-size: 30px;
+    font-size: 35px;
     text-decoration: none;
     margin-left: 20px;
     font-weight: bold;
@@ -124,4 +124,8 @@ nav a {
 
 nav a:hover {
     color: #ffa500;
+}
+
+.logo {
+    border-radius: 15px;
 }
