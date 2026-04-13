@@ -106,13 +106,22 @@ ul {
     height: 480px;
 }
 
-.nav button{
-    margin-top: 0;
-    padding: 0;
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
 }
 
-.home {
-    text-align: center;
-    align-content: center;
-    align-items: center;
+nav a {
+    font-family: "Amatic SC", sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+
+nav a:hover {
+    color: #ffa500;
 }
