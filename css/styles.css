@@ -45,6 +45,8 @@ div img {
     margin-left: auto;
     margin-right: auto;
     display: block;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .item img:hover {
@@ -85,6 +87,7 @@ div img {
 
 ul {
     list-style-type: none;
+    text-decoration: none;
 }
 
 .ingredients-container{
@@ -101,4 +104,9 @@ ul {
 
 #steps {
     height: 480px;
+}
+
+.nav button{
+    margin-top: 0;
+    padding: 0;
 }
